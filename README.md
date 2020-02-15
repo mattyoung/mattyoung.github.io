@@ -1,7 +1,6 @@
-HdDigitalworks.net
-==========
-
-.
+---
+title: HdDigitalworks.net:.+(:
+---.
 
 ```swift
 import SwiftUI
