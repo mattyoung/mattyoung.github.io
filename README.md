@@ -1,6 +1,3 @@
----
-title: HdDigitalworks.net:.+(:
----
 .
 
 ```swift
