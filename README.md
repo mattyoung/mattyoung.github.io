@@ -2,7 +2,6 @@
 
 ```swift
 import SwiftUI
-import Combine
 
 struct NewView: View {
     @ViewBuilder
